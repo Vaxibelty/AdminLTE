@@ -112,7 +112,7 @@
     <div class="hero">
         <!-- Menampilkan video menggunakan tag video dengan source dari folder public/videos -->
         <video autoplay loop muted playsinline class="back-video">
-            <source src="{{ asset('videos/rusd.mp4') }}" type="video/mp4">
+            <source src="{{ asset('videos/tantan.mp4') }}" type="video/mp4">
         </video>
 
         <nav>
